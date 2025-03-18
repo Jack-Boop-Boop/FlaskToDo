@@ -1,6 +1,3 @@
-Here's a more polished and complete version of your README for the Todo App, with some added emojis for a bit of flair!
-
-```markdown
 # Todo App 📝
 
 A simple Todo List web application built using Flask and SQLite. Manage your tasks efficiently with this lightweight and easy-to-use app!
