@@ -60,5 +60,4 @@ Visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to use the app.
 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE).
-```
 
